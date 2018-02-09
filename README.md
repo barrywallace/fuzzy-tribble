@@ -1,2 +1,3 @@
 # fuzzy-tribble
 Initial work area/repository
+I am a digital professional trying desperately to understand what's going on....
